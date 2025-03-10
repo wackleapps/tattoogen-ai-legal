@@ -43,7 +43,7 @@ Tattoogen AI may offer **weekly and yearly subscription plans** that provide acc
 We reserve the right to modify, suspend, or discontinue Tattoogen AI at any time without notice. Significant changes will be communicated to users in advance.  
 
 ## **8. Governing Law**  
-These Terms shall be governed by the laws of **[Insert Country]**, without regard to conflict of law principles.  
+These Terms shall be governed by the laws of **Turkey**, without regard to conflict of law principles.  
 
 ## **9. Contact Information**  
 For any questions regarding these Terms, you can reach us at:  

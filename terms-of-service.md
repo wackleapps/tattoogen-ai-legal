@@ -21,10 +21,21 @@ By using Tattoogen AI, you agree to:
 - Attempting to **reverse-engineer, copy, or distribute** Tattoogen AI’s AI-generated content.  
 - Engaging in **fraudulent, abusive, or harmful activities** within the App.  
 
-## **4. AI-Generated Content and Ownership**  
+## 4. User-Generated Content and Responsibility
+
+TattooGen AI enables users to generate tattoo designs using AI technology. While the AI-generated images are processed through our API key and may appear in third-party AI processing systems, all generated content remains the full responsibility of the user who created it.
+
+By using TattooGen AI, you agree that:
+- You hold full responsibility for the content you generate.
+- TattooGen AI and its developers are **not liable for any misuse, copyright infringement, or inappropriate content created through the application**.
+- You **may not create or generate images that violate any laws, infringe intellectual property rights, or contain harmful, explicit, or illegal content**.
+- The service reserves the right to restrict access if abuse is detected.
+
+TattooGen AI does not claim ownership of any AI-generated content. However:
 - AI-generated tattoo designs are **temporarily stored on the API server** for processing.  
 - Users **may save and use** their AI-generated designs for personal use.  
-- Tattoogen AI does not claim ownership of user-generated prompts or tattoo designs.  
+- TattooGen AI does not claim ownership of user-generated prompts or tattoo designs.  
+- Generated images may be temporarily stored on third-party servers for processing purposes.  
 
 ## **5. Subscription and Payment**  
 Tattoogen AI may offer **weekly and yearly subscription plans** that provide access to premium features.  
